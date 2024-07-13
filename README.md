@@ -1,1 +1,1 @@
-demo link : https://farazthecoder.github.io/Daily-Routine-App/
+demo link : https://daily-routine-app-fk.netlify.app/
